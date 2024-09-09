@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import { useState } from 'react';
 import CountdownTimer from '@/components/countdown-timer';
-import Button from '@/components/Button';
+import Button from '@/components/button';
 import IconContainer from '@/components/icon-container';
 import { useI18n } from '@/locales/client';
 import { Space_Grotesk, Roboto_Serif } from 'next/font/google';
